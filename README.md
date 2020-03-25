@@ -1,4 +1,5 @@
-# gardenplanner
+# Garden Planner
+A simple drag-and-drop application for planning a garden layout. Highlights cells that selected plants like and dislike.
 
 ## Project setup
 ```
